@@ -1,0 +1,11 @@
+  #main{
+    background-color: #FAFAFA;
+    border: 2px solid #3A9900;
+    border-radius: 10px;
+  }
+  label{
+    margin-left: 30px;
+  }
+  table{
+    margin: 20px auto 0 auto;
+  }
